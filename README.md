@@ -1,1 +1,1 @@
-# javaGui
+Szabó Erik
